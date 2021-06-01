@@ -109,7 +109,7 @@ button {
 .avatar {
     position: absolute;
     top: 15%;
-    left: 5%;
+    left: 2%;
     border-radius: 50%;
     width: 13em;
     height: 13em;
@@ -120,7 +120,7 @@ button {
     position: absolute;
     background-color: transparent;
     top: 28%;
-    left: 20%;  
+    left: 18%;  
     margin: 0;
     font-family: "Montserrat";
     font-size: 60px;
@@ -130,7 +130,7 @@ button {
     position: absolute;
     background-color: transparent;
     top: 44%;
-    left: 21.2%;  
+    left: 19%;  
     padding: 1.2em;
     font-family: "Montserrat";
     font-size: 13px;
@@ -142,7 +142,7 @@ button {
     position: absolute;
     background-color: transparent;
     top: 41%;
-    left: 30%;    
+    left: 28%;    
     font-family: "Montserrat";
     font-size: 13px;
     height: 10px; 
