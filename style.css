@@ -108,11 +108,11 @@ button {
 
 .avatar {
     position: absolute;
-    top: 18%;
+    top: 15%;
     left: 5%;
     border-radius: 50%;
-    width: 12em;
-    height: 12em;
+    width: 13em;
+    height: 13em;
     object-fit: cover;
 }
 
